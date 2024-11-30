@@ -117,7 +117,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 ================== VIVACINEMA ==================
 
-#EXTINF:-1 tvg-id="07aa813bf2c147748046edd930f7736e" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" channel-number="12" group-title="RM STREAM CHANNEL", VivaCinema
+#EXTINF:-1 tvg-id="Vivacinema" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" channel-number="12" group-title="RM STREAM CHANNEL", VivaCinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
