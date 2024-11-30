@@ -117,13 +117,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 ================== VIVACINEMA ==================
 
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="cignalplay.com">
-  <channels>
-    <channel update="i" site="cignalplay.com" site_id="07aa813bf2c14-7748-046-edd930f7736e" xmltv_id="viva_sd">viva_sd</channel>
-  </channels>
-</site>
-#EXTINF:-1 tvg-id="Viva_sd" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" channel-number="12" group-title="RM STREAM CHANNEL", VivaCinema
+#EXTINF:-1 tvg-id="Vivacinema" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" channel-number="12" group-title="RM STREAM CHANNEL", VivaCinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
