@@ -35,7 +35,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 ================== TV5 HD ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PYJhTiq.png" channel-number="4" group-title="RM STREAM CHANNEL", TV5 HD
+#EXTINF:-1 tvg-id="2615129ef2c846a9bbd43a641c7303ef" tvg-logo="https://i.imgur.com/PYJhTiq.png" channel-number="4" group-title="RM STREAM CHANNEL", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
