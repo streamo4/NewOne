@@ -724,7 +724,7 @@ https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L_1yMEFhUP1Rlv1-pxw28w", "kid":"D4U32EErEe24eAJCrBIAAg" } ], "type":"temporary" }
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celestialmoviespinoy_sd.mpd
+https://qp-pldt-live-grp-01-prod.akamaized.net:443
 
 ================== ANIMAX ==================
 
