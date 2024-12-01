@@ -134,11 +134,14 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 ================== CINEMA ONE ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" channel-number="14" group-title="RM STREAM CHANNEL",Cinema One Philippines
+#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" channel-number="14" group-title="RM STREAM CHANNEL",Cinema One 
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
+================== CINEMA ONE PH ==================
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" channel-number="" group-title="RM STREAM CHANNEL",Cinema One Philippines
+https://ln.run/Zc85c
 
 ================== TMC ==================
 
@@ -376,10 +379,8 @@ http://rambutan.whatbox.ca:1234/stream/restream/alltv/stream.m3u8?uid=3598291941
 
 ================== MYX ==================
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" channel-number="36" group-title="RM STREAM CHANNEL", MYX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/8e0e1e41-43d9-4868-a357-698e96bcf252/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" channel-number="36" group-title="RM STREAM CHANNEL", MYX
+http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
 
 
 
@@ -474,11 +475,8 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 ================== TFC ==================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" channel-number="44" group-title="RM STREAM CHANNEL", TFC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/bdb51a5c-b4be-47c8-bc5e-550960d58874/index.mpd
+https://bit.ly/3WLqRDR
+
 
 
 
