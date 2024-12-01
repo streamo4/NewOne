@@ -480,10 +480,6 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 https://bit.ly/3WLqRDR
 
 
-
-
-
-
 ================== MOONBUG KIDS ==================
 
 
@@ -493,8 +489,6 @@ https://bit.ly/3WLqRDR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
-
-
 
 
 
@@ -574,8 +568,6 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 
 
-
-
 ================== SKY SPORTS F1 ==================
 
 
@@ -629,12 +621,6 @@ http://apkandweb.ddns.net/6377635294/6663568605/674
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" channel-number="" group-title="RM STREAM CHANNEL", CELESTIAL MOVIE PINOY
 http://wag.ika.lat.pag.may.nakita.o.nahanap.o.nabalitaan.na.may.nagkalat.kung.saan.saan.at.kinalat.pa.sa.bayad.naku.pasensyahan.di.talaga.aabot.to.sa.thirty.one.kaya.please.kung.gusto.niyo.eto.magtagal.ng.one.month.wag.ika.lat/stream/nasa-danger-zone-na-ikaw-so-ano-ang-ginagawa-mo-dito-tsk-tsk-tsk-basta-ha-kung-ika-lat-patay-pati-din-ikaw-haha-jokes-merry-christmas-but-seriously-though-wag-ika-lat-pinky-swear-cross-my-heart-got-it-kung-nagbabasa-ka-ngayon-neto-kailangan-mo-to-sasabihin-lagot-ka-ni-papa-god-pasko-pa-naman-tsk-tsk-tsk-hmm-paano-ko-pa-to-pahabain-hahaha-mag-kacaroling-na-lang-ako-ahem-ahem-we-wish-you-a-merry-christmas-we-wish-you-a-merry-christmas-we-wish-you-a-merry-christmas-and-a-happy-new-year-mamamasko-po-thank-you-thank-you-ang-babait-ninyo-thank-wait-wait-wait-mababait-ba-tayo-surely-kinuha-lang-natin-to-sa-mga-dapat-paid-at-binigay-ng-free-pero-pero-pero-may-defense-tayo-right-free-is-the-keyword-so-okay-lang-tayo-right-right-waaaaaaaaaaaaaaaaaaaaaaaaaaaaa/celestialmoviespinoysd/master.m3u8?u=w8Q7gT53j9yN2p4bR6oF1aD0SxCvZEUkLmIHJOGW4tQfAsrYzMPDxKClhBvnVqT7eWi8m5cR0j2g9l6H4f7p1s3d5b2a4w8q7gT53j9yN2p4bR6oF1aD0SxCvZEUkLmIHJOGW4tQfAsrYzMPDxKClhBvnVqT7eWi8m5cR0j2g9l6H4f7p1s3d5b2a4&p=9f8acad16aeafca721a034809e8c067db903c5a5c21c3fa3dbcaebe192418626
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL",TEST
-http://5.223.45.65:18890/celestialmoviespinoy/miswa/manifest.mpd?token=68d682877dbf6ff56a38513264f3ccb2&user=motolola&exp=1732461692
-
-
 
 
 
@@ -701,8 +687,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
 
 
 ========================TRIAL============
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", TRIAL
-https://drive.google.com/file/d/1yZk-iXPR4H87Vx08Sn3JPk07pPk45hsS/view?usp=sharing
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL",
+
+
 
 ================== ANIMAX ==================
 
