@@ -52,8 +52,7 @@ https://ln.run/1fZGp
 ================== GMA 2 ==================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" channel-number="" group-title="RM STREAM CHANNEL", GMA 1
-https://shorten.is/Mikeph-gmatv-backup-m3u8?.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1733034091/ei/C6xLZ77kCPSW1d8PlYDy6Ao/ip/112.198.97.83/id/HPIMNQPer8o.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/rqh/1/hdlc/1/hls_chunk_host/rr8---sn-bavcx-hoay.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/ph/spc/qtApAVta74Ln3ECuDKebmjcod62rEHsIZeTteWY8eq-pvK-mP_e0SufHxhNE2I79zQ/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/566250/met/1733027514,/mh/OT/mip/103.152.9.6/mm/44/mn/sn-bavcx-hoay/ms/lva/mv/m/mvi/8/pl/24/rmhost/rr1---sn-bavcx-hoay.googlevideo.com/rms/lva,lva/smhost/rr4---sn-bavcx-hoaed.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51326932,51331020,51335594/mt/1733027067/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPAuEettps6rGtSMcb-_wd6WbikrezTyuZ-CvNeI_HMhAiBwcwMDGefNYnHssAHxyyuJoeq8D85KpNVgIZolSnUILw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/AGluJ3MwRAIgB3e4H39z9ZHGCk3S4HuzbcIIqiRPo1iVmHMByXJH8DYCICAcJe93P-BD2nrfxUC8sIU2Sh1IMNZaoAVZWWiiHAR_/playlist/index.m3u8
 
 ================== SARI SARI ==================
 
