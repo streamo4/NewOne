@@ -728,11 +728,12 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celesialmoviepinoy_sd.mpd
 
 ================== RUN ==================
 
-#EXTINF:-1 tvg-id="KAPAMILYA" tvg-logo="" channel-number="" group-title="LIVE CHANNEL", TEST 02
+#EXTINF:-1 tvg-id="KAPAMILYA" tvg-logo="" channel-number="" group-title="LIVE CHANNEL", TEST 03
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=OTT Navigator/1.7.1.6 (Windows NT 10.0; Win64; x64) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.6 (Windows NT 10.0; Win64; x64) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/1d084927-d856-48a4-86a6-4a1907ae625c/index.mpd
