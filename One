@@ -765,7 +765,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 ===============================================================================================================
 ====================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/8a/Jack_and_Jill_sa_Diamond_Hills.jpg/revision/latest?cb=20230620085203",media-dir="/Movies", group-title="2024",Jack & Jill
+#EXTINF:-1 tvg-id="" group-title="2024" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/8a/Jack_and_Jill_sa_Diamond_Hills.jpg/revision/latest?cb=20230620085203",media-dir="/Movies", group-title="2024",Jack & Jill
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
