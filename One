@@ -761,8 +761,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", 
+=================================================================================================================
+===============================================================================================================
+====================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/8a/Jack_and_Jill_sa_Diamond_Hills.jpg/revision/latest?cb=20230620085203",media-dir="/Movies", group-title="2024",Jack & Jill
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=104dedc3c00d44bf984deb97f3fac1cf:2d983f403039e5ca16bd1cc14386216c
+https://qp-pldt-vod-streaming-prod.akamaized.net/content/pubcontent/vol/104DEDC3-C00D-44BF-984D-EB97F3FAC1CF/1708363910732-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
+
+
+
+
+
