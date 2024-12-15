@@ -2,7 +2,7 @@
 
 ================== RPTV ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" channel-number="1" group-title="RM STREAM CHANNEL", RPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="RM STREAM CHANNEL", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -13,7 +13,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 ================== A2Z ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" channel-number="2" group-title="RM STREAM CHANNEL", A2Z
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="RM STREAM CHANNEL", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -24,7 +24,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
 ================== PBA RUSH ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" channel-number="3" group-title="RM STREAM CHANNEL", PBA RUSH
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png"  group-title="RM STREAM CHANNEL", PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -35,7 +35,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 ================== TV5 HD ==================
 
-#EXTINF:-1 tvg-id="2615129ef2c846a9bbd43a641c7303ef" tvg-logo="https://i.imgur.com/PYJhTiq.png" channel-number="4" group-title="RM STREAM CHANNEL", TV5 HD
+#EXTINF:-1 tvg-id="2615129ef2c846a9bbd43a641c7303ef" tvg-logo="https://i.imgur.com/PYJhTiq.png"  group-title="RM STREAM CHANNEL", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -46,17 +46,17 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 ================== GMA ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" channel-number="5" group-title="RM STREAM CHANNEL", GMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154"  group-title="RM STREAM CHANNEL", GMA
 https://ln.run/1fZGp
 
 ================== GMA 2 ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" channel-number="" group-title="RM STREAM CHANNEL", GMA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154"  group-title="RM STREAM CHANNEL", GMA 1
 http://hls.studentsdemo.com:8080/memfs/37a75c67-b38c-498b-92cb-f1859e42ee7d.m3u8
 
 ================== SARI SARI ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" channel-number="6" group-title="RM STREAM CHANNEL", Sari-Sari
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="RM STREAM CHANNEL", Sari-Sari
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -67,7 +67,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 ================== ONE PH ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="7" group-title="RM STREAM CHANNEL", One PH SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png"  group-title="RM STREAM CHANNEL", One PH SD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -78,7 +78,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 ================== UAAP ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/UAAP_VC_86.jpg/revision/latest/scale-to-width-down/1000?cb=20231113143542" channel-number="8" group-title="RM STREAM CHANNEL", UAAP VARSETY
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/UAAP_VC_86.jpg/revision/latest/scale-to-width-down/1000?cb=20231113143542"  group-title="RM STREAM CHANNEL", UAAP VARSETY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -89,7 +89,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 ================== BUKO ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" channel-number="9" group-title="RM STREAM CHANNEL", BUKO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png"  group-title="RM STREAM CHANNEL", BUKO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -100,7 +100,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 ================== PTV ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/1024px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" channel-number="10" group-title="RM STREAM CHANNEL", PTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/1024px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png"  group-title="RM STREAM CHANNEL", PTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -109,7 +109,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 ================== ONE SPORT ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" channel-number="11" group-title="RM STREAM CHANNEL", One Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png"  group-title="RM STREAM CHANNEL", One Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -119,7 +119,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 ================== VIVACINEMA ==================
 
-#EXTINF:-1 tvg-id="Vivacinema" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" channel-number="12" group-title="RM STREAM CHANNEL", VivaCinema
+#EXTINF:-1 tvg-id="Vivacinema" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616"  group-title="RM STREAM CHANNEL", VivaCinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -129,25 +129,25 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 ================== CINEMO ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" channel-number="13" group-title="RM STREAM CHANNEL",Cinemo! Global
+#EXTINF:-1 tvg-id="" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png"  group-title="RM STREAM CHANNEL",Cinemo! Global
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 
 
 ================== CINEMA ONE ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" channel-number="14" group-title="RM STREAM CHANNEL",Cinema One 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png"  group-title="RM STREAM CHANNEL",Cinema One 
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 ================== CINEMA ONE PH ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" channel-number="" group-title="RM STREAM CHANNEL",Cinema One Philippines
+#EXTINF:-1 tvg-id="" tvg-name="Cinema ONE" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png"  group-title="RM STREAM CHANNEL",Cinema One Philippines
 https://ln.run/Zc85c
 
 ================== TMC ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" channel-number="15" group-title="RM STREAM CHANNEL", TMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png"  group-title="RM STREAM CHANNEL", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -158,7 +158,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
 ================== PBO ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" channel-number="16" group-title="RM STREAM CHANNEL", PBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png"  group-title="RM STREAM CHANNEL", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -170,7 +170,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 ================== NBA PH ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" channel-number="17" group-title="RM STREAM CHANNEL", NBA PH
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png"  group-title="RM STREAM CHANNEL", NBA PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -182,7 +182,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
 ================== NICKELODEON ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" channel-number="18" group-title="RM STREAM CHANNEL", Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4"  group-title="RM STREAM CHANNEL", Nickelodeon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -194,7 +194,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_nickelodeon.mpd
 
 ================== DREAMWORS TAGALOG ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/SASnGFo.png" channel-number="19" group-title="RM STREAM CHANNEL", DreamWorks
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/SASnGFo.png"  group-title="RM STREAM CHANNEL", DreamWorks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -206,7 +206,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 ================== HITS MOVIES ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" channel-number="20" group-title="RM STREAM CHANNEL", Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png"  group-title="RM STREAM CHANNEL", Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -218,7 +218,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
 ================== HBO ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" channel-number="21" group-title="RM STREAM CHANNEL", HBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122"  group-title="RM STREAM CHANNEL", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -230,7 +230,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 ================== TVN ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" channel-number="22" group-title="RM STREAM CHANNEL", TVN PINOY
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png"  group-title="RM STREAM CHANNEL", TVN PINOY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -242,18 +242,18 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 ================== KAPAMILYA ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fRETRXx.png" channel-number="23" group-title="RM STREAM CHANNEL",KAPAMILYA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fRETRXx.png"  group-title="RM STREAM CHANNEL",KAPAMILYA
 http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fRETRXx.png" channel-number="23" group-title="RM STREAM CHANNEL",KAPAMILYA 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fRETRXx.png" = group-title="RM STREAM CHANNEL",KAPAMILYA 1
 https://meowmeowphc.blogspot.com/kchcignal.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fRETRXx.png" channel-number="23" group-title="RM STREAM CHANNEL",KAPAMILYA 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fRETRXx.png"  group-title="RM STREAM CHANNEL",KAPAMILYA 2
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
 
 ================== CARTOON NETWORK ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" channel-number="24" group-title="RM STREAM CHANNEL", Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png"  group-title="RM STREAM CHANNEL", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
@@ -263,17 +263,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 ================== GTV ==================
 
-#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" channel-number"25" group-title="RM STREAM CHANNEL",GTV
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736"  group-title="RM STREAM CHANNEL",GTV
 https://ln.run/yY4Rp
 
 
-#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" channel-number"" group-title="RM STREAM CHANNEL",GTV
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736"  group-title="RM STREAM CHANNEL",GTV
 http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
 
 
 ================== TRUE FM ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1410-2446_import.png" channel-number="26" group-title="RM STREAM CHANNEL", TRUE FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1410-2446_import.png"  group-title="RM STREAM CHANNEL", TRUE FM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -285,7 +285,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 ================== ASIAN FOOD ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5jBcL2.png" channel-number="27" group-title="RM STREAM CHANNEL", Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5jBcL2.png"  group-title="RM STREAM CHANNEL", Asian Food Network
 https://ln.run/7rN1n
 
 
@@ -293,7 +293,7 @@ https://ln.run/7rN1n
 
 ================== FASHION ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zd5zm7C.png" channel-number="28" group-title="RM STREAM CHANNEL", FASHION TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zd5zm7C.png"  group-title="RM STREAM CHANNEL", FASHION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -305,7 +305,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
 ================== CNN ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/2acf9495fde07739914e7a7bb3ffee94.png" channel-number="29" group-title="RM STREAM CHANNEL", CNN PH
+#EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/2acf9495fde07739914e7a7bb3ffee94.png"  group-title="RM STREAM CHANNEL", CNN PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -317,7 +317,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_cnnhd.mpd
 
 ================== HBO FAMILY ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" channel-number="30" group-title="RM STREAM CHANNEL", HBO FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png"  group-title="RM STREAM CHANNEL", HBO FAMILY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -329,7 +329,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 ================== MPTV ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20230822144008" channel-number="31" group-title="RM STREAM CHANNEL", MPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20230822144008"  group-title="RM STREAM CHANNEL", MPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -341,7 +341,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
 ================== CINEMAX ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp" channel-number="32" group-title="RM STREAM CHANNEL", CINEMAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"  group-title="RM STREAM CHANNEL", CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -353,7 +353,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 ================== HBO SIGNATURE ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" channel-number="33" group-title="RM STREAM CHANNEL", HBO SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"  group-title="RM STREAM CHANNEL", HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -365,7 +365,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 ================== HBO HITS ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest/scale-to-width-down/250?cb=20100511073403" channel-number="34" group-title="RM STREAM CHANNEL", HBO HITS
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest/scale-to-width-down/250?cb=20100511073403"  group-title="RM STREAM CHANNEL", HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -377,21 +377,21 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 ================== ALLTV ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/6/63/ALLTV_Logo_2023.png/revision/latest/scale-to-width-down/2560?cb=20240817152935" channel-number="35" group-title="RM STREAM CHANNEL", ALLTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/6/63/ALLTV_Logo_2023.png/revision/latest/scale-to-width-down/2560?cb=20240817152935"  group-title="RM STREAM CHANNEL", ALLTV
 http://rambutan.whatbox.ca:1234/stream/restream/alltv/stream.m3u8?uid=3598291941&u=cGhjb3JuZXI=&p=011906897aea8319785bf3e3ebbfc4950a207678a7bd6b3d446a9835b510e77b
 
 
 
 ================== MYX ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" channel-number="36" group-title="RM STREAM CHANNEL", MYX
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png"  group-title="RM STREAM CHANNEL", MYX
 http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
 
 
 
 ================== BBC EARTH ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png" channel-number="37" group-title="RM STREAM CHANNEL", BBC EARTH
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png"  group-title="RM STREAM CHANNEL", BBC EARTH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -403,7 +403,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 ================== WWE NETWORK ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" channel-number="38" group-title="RM STREAM CHANNEL", WWE NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png"  group-title="RM STREAM CHANNEL", WWE NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -414,7 +414,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 ================== ANIMAL PLANET ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" channel-number="39" group-title="RM STREAM CHANNEL", ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png"  group-title="RM STREAM CHANNEL", ANIMAL PLANET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -426,7 +426,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 ================== DISCOVERY ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" channel-number="40" group-title="RM STREAM CHANNEL", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png"  group-title="RM STREAM CHANNEL", DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -439,7 +439,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 ================== HGTV ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/HGTV-Logo.png" channel-number="41" group-title="RM STREAM CHANNEL", HGTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/HGTV-Logo.png"  group-title="RM STREAM CHANNEL", HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -453,7 +453,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 ================== HISTORY ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" channel-number="42" group-title="RM STREAM CHANNEL", HISTORY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"  group-title="RM STREAM CHANNEL", HISTORY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -467,7 +467,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 ================== KBS WORLD ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JAL3Ohz.png" channel-number="43" group-title="RM STREAM CHANNEL", KBS WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JAL3Ohz.png" = group-title="RM STREAM CHANNEL", KBS WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -479,14 +479,14 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
 ================== TFC ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" channel-number="44" group-title="RM STREAM CHANNEL", TFC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png"  group-title="RM STREAM CHANNEL", TFC
 https://bit.ly/3WLqRDR
 
 
 ================== MOONBUG KIDS ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" channel-number="45" group-title="RM STREAM CHANNEL", MOONBUG KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png"  group-title="RM STREAM CHANNEL", MOONBUG KIDS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -497,7 +497,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
 ================== WARNER TV ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" channel-number="46" group-title="RM STREAM CHANNEL", WARNER TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png"  group-title="RM STREAM CHANNEL", WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -509,7 +509,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_warnerhd.mpd
 ================== TELERADYO ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" channel-number="47" group-title="RM STREAM CHANNEL",TELERADYO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png"  group-title="RM STREAM CHANNEL",TELERADYO
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 
 
@@ -518,7 +518,7 @@ https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 ================== CBEEBIES ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png" channel-number="49" group-title="RM STREAM CHANNEL", CBEEBIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png"  group-title="RM STREAM CHANNEL", CBEEBIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -528,7 +528,7 @@ https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5093/default_prima
 ================== CARTOONITO ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x1wehbs.png" channel-number="50" group-title="RM STREAM CHANNEL",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x1wehbs.png"  group-title="RM STREAM CHANNEL",CARTOONITO
 http://stream01.vnet.am/Channel_120/mpegts
 
 
@@ -536,7 +536,7 @@ http://stream01.vnet.am/Channel_120/mpegts
 ================== CNN ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://115.146.176.131/images/2acf9495fde07739914e7a7bb3ffee94.png" channel-number="51" group-title="RM STREAM CHANNEL",CNN PH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://115.146.176.131/images/2acf9495fde07739914e7a7bb3ffee94.png"  group-title="RM STREAM CHANNEL",CNN PH
 https://ln.run/PHCNN
 
 
@@ -544,7 +544,7 @@ https://ln.run/PHCNN
 ================== INC ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1020-167_import.png" channel-number="52" group-title="RM STREAM CHANNEL",INC 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1020-167_import.png"  group-title="RM STREAM CHANNEL",INC 
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
 
@@ -553,14 +553,14 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 ================== BOOMERANG ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L9jF0ln.png" channel-number="53" group-title="RM STREAM CHANNEL",BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L9jF0ln.png"  group-title="RM STREAM CHANNEL",BOOMERANG
 http://apkandweb.ddns.net/6377635294/6663568605/665
 
 
 
 ================== ONE SPORT+ ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" channel-number="54" group-title="RM STREAM CHANNEL", ONE SPORT+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg"  group-title="RM STREAM CHANNEL", ONE SPORT+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -572,19 +572,19 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 ================== SKY SPORTS F1 ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" channel-number="55" group-title="RM STREAM CHANNEL",SKY SPORTS F1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png"  group-title="RM STREAM CHANNEL",SKY SPORTS F1
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471382&extension=ts&play_token=jlntAAeR2y
 
 
 ================== HEART OF ASIA ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" channel-number="56" group-title="RM STREAM CHANNEL",I HEART OF ASIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" ="56" group-title="RM STREAM CHANNEL",I HEART OF ASIA
 https://meowmeowphc.blogspot.com/heartofasia.m3u8
 
 
 ================== I HEART MOVIES ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" channel-number="57" group-title="RM STREAM CHANNEL",I HEART MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316"  group-title="RM STREAM CHANNEL",I HEART MOVIES
 https://meowmeowphc.blogspot.com/iheartmovies.m3u8
 
 
@@ -593,7 +593,7 @@ https://meowmeowphc.blogspot.com/iheartmovies.m3u8
 ================== THRILL ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" channel-number="58" group-title="RM STREAM CHANNEL", THRILL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png"  group-title="RM STREAM CHANNEL", THRILL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -606,21 +606,21 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 ================== DISNEY XD ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" channel-number="59" group-title="RM STREAM CHANNEL", DISNEY XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png"  group-title="RM STREAM CHANNEL", DISNEY XD
 https://fl5.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.m3u8
 
 
 ================== NICK JR ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" channel-number="60" group-title="RM STREAM CHANNEL", NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png"  group-title="RM STREAM CHANNEL", NICK JR
 http://apkandweb.ddns.net/6377635294/6663568605/674
 
 
 ================== CELESTIAL MOVIE ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" channel-number="" group-title="RM STREAM CHANNEL", CELESTIAL MOVIE PINOY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png"  group-title="RM STREAM CHANNEL", CELESTIAL MOVIE PINOY
 http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 
@@ -629,7 +629,7 @@ http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=t
 ================== TAP ACTIONFLIX ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/TAP_ActionFlix_logo.png/revision/latest/scale-to-width-down/1200?cb=20210920130656" channel-number="61" group-title="RM STREAM CHANNEL", TAP ACTION FLIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/TAP_ActionFlix_logo.png/revision/latest/scale-to-width-down/1200?cb=20210920130656"  group-title="RM STREAM CHANNEL", TAP ACTION FLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -640,7 +640,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 ================== TAP MOVIES ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20210920125940" channel-number="62" group-title="RM STREAM CHANNEL", TAP MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20210920125940"  group-title="RM STREAM CHANNEL", TAP MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -651,13 +651,13 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 
 ================== TNT ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/2048px-TNT_Logo_2016.svg.png" channel-number="63" group-title="RM STREAM CHANNEL",TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/2048px-TNT_Logo_2016.svg.png"  group-title="RM STREAM CHANNEL",TNT
 http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/96162.ts
 
 
 ================== TNT SPORTS ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&s" channel-number="64" group-title="RM STREAM CHANNEL",TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&s"  group-title="RM STREAM CHANNEL",TNT SPORTS
 http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/110708.ts
 
 
@@ -666,13 +666,13 @@ http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/110708.ts
 ================== NHK JAPAN ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ajBtogD.png" channel-number="65" group-title="RM STREAM CHANNEL",NHK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ajBtogD.png"  group-title="RM STREAM CHANNEL",NHK
 https://bit.ly/3YK6l7a
 
 
 ================== Al Jazeera ==================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" channel-number="66" group-title="RM STREAM CHANNEL",Al JAZERRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png"  group-title="RM STREAM CHANNEL",Al JAZERRA
 https://bit.ly/4edqRl7
 
 
@@ -680,7 +680,7 @@ https://bit.ly/4edqRl7
 ================== AXN ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" channel-number="67" group-title="RM STREAM CHANNEL", AXN
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png"  group-title="RM STREAM CHANNEL", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -689,14 +689,14 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
 
 
 ========================TRIAL============
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL",
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="RM STREAM CHANNEL",
 
 
 
 ================== ANIMAX ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" channel-number="68" group-title="RM STREAM CHANNEL", TVN PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png"  group-title="RM STREAM CHANNEL", TVN PREMIUM HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -707,21 +707,21 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 ================== SBS ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/bc/92/fa/bc92fa3e7cfadce6defa891e97539d14.png" channel-number="" group-title="RM STREAM CHANNEL", SBS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/bc/92/fa/bc92fa3e7cfadce6defa891e97539d14.png"  group-title="RM STREAM CHANNEL", SBS CHANNEL
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch62
 
 
 ================== NET 25 ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Net252020.png/revision/latest?cb=20201008081307" channel-number="" group-title="RM STREAM CHANNEL", NET 25
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Net252020.png/revision/latest?cb=20201008081307" group-title="RM STREAM CHANNEL", NET 25
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 
 
 ==================CELESTIAL MOVIE 1 ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", test101
+#EXTINF:-1 tvg-id="" tvg-logo="" = group-title="RM STREAM CHANNEL", test101
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -730,7 +730,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celesialmoviepinoy_sd.mpd
 
 ================== RUN ==================
 
-#EXTINF:-1 tvg-id="KAPAMILYA" tvg-logo="" channel-number="" group-title="Test", TEST 11
+#EXTINF:-1 tvg-id="KAPAMILYA" tvg-logo=""  group-title="Test", TEST 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 #EXTVLCOPT:network-caching=1000
@@ -747,14 +747,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", 
+#EXTINF:-1 tvg-id="" tvg-logo="" ="" group-title="RM STREAM CHANNEL", 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", 
+#EXTINF:-1 tvg-id="" tvg-logo="" ="" group-title="RM STREAM CHANNEL", 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -764,13 +764,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 =================================================================================================================
 ===============================================================================================================
 ====================================================================
-
-#EXTINF:-1 tvg-id="" group-title="2024" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/8a/Jack_and_Jill_sa_Diamond_Hills.jpg/revision/latest?cb=20230620085203",media-dir="/Movies", group-title="2024",Jack & Jill
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=104dedc3c00d44bf984deb97f3fac1cf:2d983f403039e5ca16bd1cc14386216c
-https://qp-pldt-vod-streaming-prod.akamaized.net/content/pubcontent/vol/104DEDC3-C00D-44BF-984D-EB97F3FAC1CF/1708363910732-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
 
 
 
