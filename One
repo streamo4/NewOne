@@ -473,6 +473,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JAL3Ohz.png" = group-title="RM STREAM CHANNEL", KBS WORLD HD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 
 
 
