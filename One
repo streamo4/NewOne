@@ -765,7 +765,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 ===============================================================================================================
 ====================================================================
 
-
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=URI="104dedc3c00d44bf984deb97f3fac1cf:2d983f403039e5ca16bd1cc14386216c"
+#EXTINF:-1 tv-name="" tvg-logo="", Trial
+https://qp-pldt-vod-streaming-prod.akamaized.net/content/pubcontent/vol/104DEDC3-C00D-44BF-984D-EB97F3FAC1CF/1708363910732-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
 
 
 
