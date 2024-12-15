@@ -385,7 +385,7 @@ http://rambutan.whatbox.ca:1234/stream/restream/alltv/stream.m3u8?uid=3598291941
 ================== MYX ==================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.istockphoto.com/id/1447629761/vector/karaoke-logo-design-vector-illustration.jpg?s=612x612&w=0&k=20&c=O0NkZfIm2dTjVMr_7bpsu4NnAXa7jrOmu1HTg9O-b2E="  group-title="RM STREAM CHANNEL", KARAOKE
-http://38.10.91.165:48090/auth/TJ58UUU_dl4cThSOk9Ie_D_Z3Cwn-B8zM8FoewAxTmZG3wZ_VJ4kmyo5c16-NNnylFXKgByqGRVPv8UiNm_ktzShD6cnaj4yB6SXTCk9J-d4p7nSxwvqiqwfb_kXMCoAHQn0ghUjgACXPhOw44zRceYdvfUYtw4ibRBdexsSz011zajZwjv4izkS8rpLIcQWly9BP-OYXWcnnBTz73SB-yNR-bsD63bL3bSB1L6K6_xGrgvstWNqP3ZoOMgZReqLIZhserjE7jLIyVzfI8Ez4LbXi2JLiMWVVHDUP8WyQ3vPlyVY35MEr2FcZD-gVRzTK4Qi2xaBj9KeX44HjRtki8QHruM_ZGGi57D3iFD3q81trKVRmg4KjB0Uow6YdEOqll1Sw3evt0Wfr5v-ioSOjdD6M25joFuntNjs5ZY7ZwPb2K7uFQUZj5lbfGr8GtRGHNA7WTCOa9EjtlLrmtx9eg2TuXYGPKAnBwNw0Qv90Pyx7wy7ZW5iee6jYQ6iXorxmTtprPqiBbZFvmNtg1u0iCrf1fx-hMl2pCzJSJk8MQs5ApBhk3dEu19-o_nypvnKHbvwgCIEXM87vvRJuy_id4Ko5wxWpuVb17-mwdf7PqoGsMjLBZvCrt0uEFPjWzqcVpSiVaTLZ8atjgoI6f-NRBNzayklfc7RLzq3ZiiH-1w
+http://38.10.91.165:48090/live/test-demo/test-demo/5186.ts
 
 
 ================== BBC EARTH ==================
