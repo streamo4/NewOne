@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.istockphoto.com/id/476438632/vector/warning-rubber-stamp-ink-imprint-icon.jpg?s=612x612&w=0&k=20&c=Q_ATD3Diqko9s9twE5hpmIRebUh1XpN1eg3vhy-s1Gs=" group-title="RM STREAM CHANNEL",ANNOUNCEMENT
+#EXTINF:0 CUID="1" tvg-id="" tvg-logo="https://media.istockphoto.com/id/476438632/vector/warning-rubber-stamp-ink-imprint-icon.jpg?s=612x612&w=0&k=20&c=Q_ATD3Diqko9s9twE5hpmIRebUh1XpN1eg3vhy-s1Gs=" group-title="RM STREAM CHANNEL",ANNOUNCEMENT
 https://dl.dropboxusercontent.com/s/5s407ona7nq5t89jpjrw2/iptv-background.mp4?rlkey=trnw7cw30hvuy9ed75a8dsg7l&st=kf1ypncw&dl=0
 
 ================== RPTV ==================
