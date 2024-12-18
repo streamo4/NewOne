@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.istockphoto.com/id/476438632/vector/warning-rubber-stamp-ink-imprint-icon.jpg?s=612x612&w=0&k=20&c=Q_ATD3Diqko9s9twE5hpmIRebUh1XpN1eg3vhy-s1Gs=" group-title="RM STREAM CHANNEL",ANNOUNCEMENT
+https://dl.dropboxusercontent.com/s/108trniyzmtuhtm9e9k8s/iptv-background.png?rlkey=vffro6t5bp4l30ffcfpdzyoft&st=3j2srndl&dl=0
+
 ================== RPTV ==================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="RM STREAM CHANNEL", RPTV
